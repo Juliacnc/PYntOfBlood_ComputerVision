@@ -1,0 +1,981 @@
+Folder Path,Number of Files Analyzed
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/neutrophil,3330
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/ig,2890
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/platelet,2348
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/eosinophil,1823
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/erythroblast,1551
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/monocyte,1420
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/basophil,1218
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/lymphocyte,1214
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Unsigned slides,832
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Unsigned slides,539
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Unsigned slides,514
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Unsigned slides,504
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Smudge cells,425
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Unsigned slides,393
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Unsigned slides,334
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Unsigned slides,301
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Unsigned slides,297
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Unsigned slides,296
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Smudge cells,294
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Unsigned slides,291
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Unsigned slides,282
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Unsigned slides,275
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Unsigned slides,265
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Unsigned slides,264
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Leukemia_Dataset/ALL_IDB2/ALL_IDB2/img,260
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Unsigned slides,253
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Unsigned slides,245
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Unsigned slides,203
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Lymphocyte,188
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Unsigned slides,184
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Unsigned slides,163
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Unsigned slides,162
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Unsigned slides,159
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Lymphocyte,159
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Unsigned slides,158
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Unsigned slides,153
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Unsigned slides,152
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Unsigned slides,150
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Unsigned slides,149
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Unsigned slides,144
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Promyelocyte,144
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Unsigned slides,142
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Unsigned slides,141
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Unsigned slides,139
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Unsigned slides,139
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_57/Signed slides/Blast, no lineage spec",139
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Unsigned slides,138
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Unsigned slides,137
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Unsigned slides,133
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Unsigned slides,133
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Unsigned slides,133
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Erythroblast,131
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_22/Unsigned slides,130
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Unsigned slides,130
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Unsigned slides,125
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Unsigned slides,123
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Unsigned slides,122
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Smudge cells,121
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_92/Unsigned slides,120
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Unsigned slides,118
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Unsigned slides,118
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Leukemia_Dataset/ALL_IDB1/ALL_IDB1/xyc,108
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Leukemia_Dataset/ALL_IDB1/ALL_IDB1/im,108
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Blast, no lineage spec",105
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_38/Signed slides/Smudge cells,103
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Lymphocyte,102
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_12/Signed slides/Blast, no lineage spec",101
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Smudge cells,101
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Lymphocyte,99
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Smudge cells,98
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_37/Signed slides/Blast, no lineage spec",97
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Blast, no lineage spec",94
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_04/Signed slides/Blast, no lineage spec",94
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Signed slides/Promyelocyte,94
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_21/Signed slides/Segmented neutrophils,92
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Blast, no lineage spec",91
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_77/Signed slides/Segmented neutrophils,90
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_70/Signed slides/Blast, no lineage spec",89
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Lymphocyte,89
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_22/Signed slides/Lymphocyte,88
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Unsigned slides,88
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_92/Signed slides/Blast, no lineage spec",87
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Signed slides/Blast, no lineage spec",86
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Blast, no lineage spec",85
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_32/10026417885/Signed slides/Blast, no lineage spec",81
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_34/Signed slides/Blast, no lineage spec",79
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Lymphocyte,77
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Blast, no lineage spec",77
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Smudge cells,76
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Blast, no lineage spec",76
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Unsigned slides,75
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Blast, no lineage spec",74
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Promyelocyte,73
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_11/Signed slides/Lymphocyte,72
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Segmented neutrophils,72
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Segmented neutrophils,71
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Blast, no lineage spec",71
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Lymphocyte,70
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_65/Signed slides/Lymphocyte,68
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Smudge cells,68
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Smudge cells,67
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_94/Signed slides/Segmented neutrophils,67
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_42/Signed slides/Lymphocyte,67
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_38/Signed slides/Monocyte,67
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Lymphocyte,66
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Blast, no lineage spec",66
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_67/Signed slides/Blast, no lineage spec",66
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Segmented neutrophils,65
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Blast, no lineage spec",65
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Lymphocyte,64
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Blast, no lineage spec",64
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Segmented neutrophils,64
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Segmented neutrophils,63
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Lymphocyte,63
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Lymphocyte,62
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Monocyte,62
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_30/Signed slides/Blast, no lineage spec",62
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Signed slides/Lymphocyte,62
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Lymphocyte, variant",61
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Blast, no lineage spec",61
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_96/Signed slides/Lymphocyte,60
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Unsigned slides,60
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_45/Signed slides/Blast, no lineage spec",60
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Segmented neutrophils,60
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Monocyte,59
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Segmented neutrophils,58
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Monocyte,58
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_50/Signed slides/Lymphocyte,58
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Blast, no lineage spec",58
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Monocyte,58
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Lymphocyte,57
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Lymphocyte,56
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Smudge cells,55
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Lymphocyte,55
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Monocyte,54
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Blast, no lineage spec",54
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Monocyte,54
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Monocyte,53
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Segmented neutrophils,53
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Smudge cells,52
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Monocyte,52
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Lymphocyte,51
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Blast, no lineage spec",50
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Lymphocyte,50
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Segmented neutrophils,50
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Smudge cells,49
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Segmented neutrophils,48
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Blast, no lineage spec",48
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Blast, no lineage spec",47
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Lymphocyte,47
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Monocyte,47
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Lymphocyte,46
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Lymphocyte,46
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Blast, no lineage spec",46
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Smudge cells,46
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Segmented neutrophils,46
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Segmented neutrophils,45
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Lymphocyte, variant",44
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Blast, no lineage spec",44
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Lymphocyte,44
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Blast, no lineage spec",43
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Lymphocyte,43
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Blast, no lineage spec",43
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Blast, no lineage spec",43
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Lymphocyte,42
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Erythroblast,41
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Smudge cells,41
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Smudge cells,41
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Smudge cells,40
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Signed slides/Smudge cells,40
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Monocyte,40
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Smudge cells,40
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Monocyte,40
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Blast, no lineage spec",40
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Blast, no lineage spec",39
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_82/Signed slides/Blast, no lineage spec",39
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Smudge cells,39
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Segmented neutrophils,39
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Lymphocyte,38
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Segmented neutrophils,38
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_67/Signed slides/Lymphocyte,38
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Blast, no lineage spec",38
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Lymphocyte,38
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Monocyte,37
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_94/Signed slides/Lymphocyte,37
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Myelocyte,37
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Erythroblast,37
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_30/Signed slides/Lymphocyte,37
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Smudge cells,37
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Erythroblast,36
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Smudge cells,36
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Blast, no lineage spec",36
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Lymphocyte,36
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Lymphocyte,35
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Promyelocyte,35
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Lymphocyte,34
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_11/Signed slides/Blast, no lineage spec",34
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Segmented neutrophils,34
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Lymphocyte,34
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Segmented neutrophils,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Erythroblast,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Smudge cells,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Segmented neutrophils,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Monocyte,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Smudge cells,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_04/Signed slides/Lymphocyte,33
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Erythroblast,32
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Segmented neutrophils,32
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_30/Signed slides/Smudge cells,32
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_42/Signed slides/Segmented neutrophils,32
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Smudge cells,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Lymphocyte,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Monocyte,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_45/Signed slides/Smudge cells,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Monocyte,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Promyelocyte,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Lymphocyte,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Segmented neutrophils,31
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Smudge cells,30
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Blast, no lineage spec",30
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_34/Signed slides/Lymphocyte,30
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_37/Signed slides/Smudge cells,30
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Smudge cells,30
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Segmented neutrophils,30
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Segmented neutrophils,30
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Blast, no lineage spec",30
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Blast, no lineage spec",29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Monocyte,29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Lymphocyte,29
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Blast, no lineage spec",29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Lymphocyte,29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Segmented neutrophils,29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Promyelocyte,29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Promyelocyte,29
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Segmented neutrophils,28
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Plasma cells,28
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Lymphocyte,28
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Monocyte,28
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Blast, no lineage spec",28
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Smudge cells,27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Lymphocyte,27
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Lymphocyte, variant",27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Lymphocyte,27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Monocyte,27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_92/Signed slides/Lymphocyte,27
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Blast, no lineage spec",27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Lymphocyte,27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Lymphocyte,27
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Lymphocyte,26
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Lymphocyte,26
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Blast, no lineage spec",26
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Segmented neutrophils,26
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Segmented neutrophils,26
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Blast, no lineage spec",26
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Smudge cells,26
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Arifact,26
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_38/Signed slides/Blast, no lineage spec",25
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_96/Signed slides/Blast, no lineage spec",25
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Segmented neutrophils,25
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_70/Signed slides/Monocyte,25
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_50/Signed slides/Monocyte,24
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Lymphocyte,24
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Segmented neutrophils,24
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Blast, no lineage spec",24
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Lymphocyte,23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Lymphocyte,23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Smudge cells,23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Segmented neutrophils,23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Segmented neutrophils,23
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Lymphocyte, variant",23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Promyelocyte,23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Monocyte,23
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Lymphocyte,22
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Smudge cells,22
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Lymphocyte,22
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_65/Signed slides/Segmented neutrophils,22
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Lymphocyte, variant",22
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Segmented neutrophils,22
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Segmented neutrophils,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Lymphocyte,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Segmented neutrophils,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Lymphocyte,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Segmented neutrophils,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Promyelocyte,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Monocyte,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Smudge cells,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_22/Signed slides/Segmented neutrophils,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Promyelocyte,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_65/Signed slides/Monocyte,21
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Erythroblast,20
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Segmented neutrophils,20
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Lymphocyte,20
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Smudge cells,20
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Promonocyte,20
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Blast, no lineage spec",19
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_50/Signed slides/Segmented neutrophils,19
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Lymphocyte,19
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Lymphocyte,19
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Lymphocyte,19
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Monocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Segmented neutrophils,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Monocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Segmented neutrophils,18
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Blast, no lineage spec",18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Monocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_45/Signed slides/Promonocyte,18
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Lymphocyte, variant",18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Lymphocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Lymphocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Lymphocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Lymphocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Lymphocyte,18
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Erythroblast,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Smudge cells,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Segmented neutrophils,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_96/Signed slides/Segmented neutrophils,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Lymphocyte,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Lymphocyte,17
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Blast, no lineage spec",17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Segmented neutrophils,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Smudge cells,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Smudge cells,17
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Lymphocyte, variant",17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Smudge cells,17
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_32/10026417885/Signed slides/Smudge cells,16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Monocyte,16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Segmented neutrophils,16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_45/Signed slides/Monocyte,16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Promyelocyte,16
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Blast, no lineage spec",16
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Blast, no lineage spec",16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Promyelocyte,16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_65/Signed slides/Smudge cells,16
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Smudge cells,16
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Blast, no lineage spec",15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Smudge cells,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Smudge cells,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Smudge cells,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Smudge cells,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Segmented neutrophils,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Myelocyte,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Smudge cells,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Smudge cells,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Monocyte,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Lymphocyte,15
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Blast, no lineage spec",15
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Blast, no lineage spec",15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Lymphocyte,15
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Blast, no lineage spec",15
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_50/Signed slides/Lymphocyte, variant",15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Lymphocyte,15
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Unidentified,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Smudge cells,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Lymphocyte,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Smudge cells,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Promyelocyte,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_32/10026417885/Signed slides/Lymphocyte,14
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Blast, no lineage spec",14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Smudge cells,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Metamyelocyte,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Eosinophils,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Smudge cells,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Lymphocyte,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Segmented neutrophils,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_70/Signed slides/Smudge cells,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Monocyte,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Smudge cells,14
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Blast, no lineage spec",14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Segmented neutrophils,14
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Segmented neutrophils,13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Smudge cells,13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Smudge cells,13
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Blast, no lineage spec",13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Lymphocyte,13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Promyelocyte,13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Lymphocyte,13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Smudge cells,13
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Blast, no lineage spec",13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Smudge cells,13
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_82/Signed slides/Promyelocyte,13
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Blast, no lineage spec",12
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Lymphocyte, variant",12
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Lymphocyte, variant",12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Promonocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Lymphocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_94/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_22/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Thrombocyte aggregation,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_21/Signed slides/Lymphocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Promyelocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_67/Signed slides/Segmented neutrophils,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Segmented neutrophils,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_70/Signed slides/Lymphocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Signed slides/Lymphocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_12/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_12/Signed slides/Segmented neutrophils,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Band neutrophils,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Monocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Monocyte,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Smudge cells,12
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Erythroblast,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Smudge cells,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Segmented neutrophils,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Segmented neutrophils,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Lymphocyte,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Promyelocyte,11
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Lymphocyte, variant",11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Band neutrophils,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Lymphocyte,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Segmented neutrophils,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Smudge cells,11
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Lymphocyte, variant",11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Smudge cells,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_82/Signed slides/Lymphocyte,11
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Lymphocyte, variant",11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_82/Signed slides/Segmented neutrophils,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Erythroblast,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Erythroblast,11
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Blast, no lineage spec",11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Segmented neutrophils,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Smudge cells,11
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Smudge cells,10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Lymphocyte, variant",10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Monocyte,10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Lymphocyte, variant",10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_42/Signed slides/Monocyte,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_82/Signed slides/Myelocyte,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Monocyte,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Signed slides/Erythroblast,10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Blast, no lineage spec",10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Blast, no lineage spec",10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Smudge cells,10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Blast, no lineage spec",10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Smudge cells,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Monocyte,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Segmented neutrophils,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_34/Signed slides/Smudge cells,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Metamyelocyte,10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Blast, no lineage spec",10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Lymphocyte,10
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Blast, no lineage spec",10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Lymphocyte,10
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_30/Signed slides/Segmented neutrophils,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Monocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_11/Signed slides/Smudge cells,9
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Lymphocyte, variant",9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Monocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Monocyte,9
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Lymphocyte, variant",9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_82/Signed slides/Smudge cells,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Promyelocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Plasma cells,9
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Blast, no lineage spec",9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Promyelocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Giant thrombocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_38/Signed slides/Lymphocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Band neutrophils,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Lymphocyte,9
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Blast, no lineage spec",9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Smudge cells,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Segmented neutrophils,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Monocyte,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Segmented neutrophils,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_04/Signed slides/Smudge cells,9
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Myelocyte,9
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Blast, no lineage spec",8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Smudge cells,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Monocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Lymphocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Myelocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Promyelocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Signed slides/Segmented neutrophils,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Lymphocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Monocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_57/Signed slides/Smudge cells,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Promonocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Erythroblast,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_50/Signed slides/Smudge cells,8
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Lymphocyte, variant",8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Erythroblast,8
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Lymphocyte, variant",8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_67/Signed slides/Smudge cells,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Erythroblast,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Promyelocyte,8
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_57/Signed slides/Lymphocyte,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Band neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Myelocyte,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Monocyte,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Eosinophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Smudge cells,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Eosinophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Band neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Young Unidentified,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Lymphocyte,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Lymphocyte,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_77/Signed slides/Band neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_96/Signed slides/Erythroblast,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Band neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Tests,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_32/10026417885/Signed slides/Segmented neutrophils,7
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Lymphocyte, variant",7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Metamyelocyte,7
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Blast, no lineage spec",7
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Lymphocyte, variant",7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Smudge cells,7
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Lymphocyte, variant",7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Lymphocyte,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Erythroblast,7
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Blast, no lineage spec",7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Erythroblast,7
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Lymphocyte, variant",7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Segmented neutrophils,7
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_92/Signed slides/Monocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Segmented neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_96/Signed slides/Smudge cells,6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Blast, no lineage spec",6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Band neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Eosinophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Smudge cells,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Signed slides/Monocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Band neutrophils,6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Blast, no lineage spec",6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Promonocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Segmented neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Giant thrombocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Segmented neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Monocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Eosinophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Band neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Promyelocyte,6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Blast, no lineage spec",6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Giant thrombocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Lymphocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_45/Signed slides/Lymphocyte,6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Lymphocyte, variant",6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Lymphocyte, variant",6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Promyelocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Promyelocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Erythroblast,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Myelocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Smudge cells,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Band neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Segmented neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Myelocyte,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Signed slides/Segmented neutrophils,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Erythroblast,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Unidentified,6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Segmented neutrophils,6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_67/Signed slides/Lymphocyte, variant",6
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Lymphocyte, variant",6
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Myelocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Segmented neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Lymphocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_42/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Myelocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Lymphocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Monocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_21/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Segmented neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Monocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Plasma cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Eosinophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Lymphocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Monocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Erythroblast,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Signed slides/Segmented neutrophils,5
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Blast, no lineage spec",5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Segmented neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_92/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Eosinophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_11/Signed slides/Monocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Thrombocyte aggregation,5
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Lymphocyte, variant",5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Lymphocyte,5
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Lymphocyte, variant",5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Basophil,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Myelocyte,5
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Lymphocyte, variant",5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Myelocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Segmented neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_94/Signed slides/Promyelocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Unidentified,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Myelocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Segmented neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Smudge cells,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Segmented neutrophils,5
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Blast, no lineage spec",5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Monocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_37/Signed slides/Lymphocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Basophil,5
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Blast, no lineage spec",5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Myelocyte,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Band neutrophils,5
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Monocyte,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Blast, no lineage spec",4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Lymphocyte, variant",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Giant thrombocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Erythroblast,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Myelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Eosinophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Myelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Segmented neutrophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Band neutrophils,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Lymphocyte, variant",4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Lymphocyte, variant",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Myelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Lymphocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Smudge cells,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_10/Signed slides/Band neutrophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Promyelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Metamyelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Eosinophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Myelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Giant thrombocyte,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Lymphocyte, variant",4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Lymphocyte, variant",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Myelocyte,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Lymphocyte, variant",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Band neutrophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Erythroblast,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Lymphocyte, variant",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_21/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Segmented neutrophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Giant thrombocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_22/Signed slides/Erythroblast,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Promonocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Metamyelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Giant thrombocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Plasma cells,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Eosinophils,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Blast, no lineage spec",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_21/Signed slides/Erythroblast,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Erythroblast,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Band neutrophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Promyelocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Erythroblast,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Monocyte,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Segmented neutrophils,4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Giant thrombocyte,4
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Lymphocyte, variant",4
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Eosinophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Promyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Promyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Smudge cells,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Erythroblast,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Band neutrophils,3
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_65/Signed slides/Lymphocyte, variant",3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_22/Signed slides/Monocyte,3
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Lymphocyte, variant",3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Monocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Eosinophils,3
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Blast, no lineage spec",3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Lymphocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_30/Signed slides/Monocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Monocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Basophil,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_21/Signed slides/Smudge cells,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Erythroblast,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Myelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Giant thrombocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Giant thrombocyte,3
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Lymphocyte, variant",3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Segmented neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Eosinophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Eosinophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Eosinophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Giant thrombocyte,3
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_04/Signed slides/Lymphocyte, variant",3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Segmented neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Promyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Smudge cells,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Basophil,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Thrombocyte aggregation,3
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Lymphocyte, variant",3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Eosinophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Basophil,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_37/Signed slides/Segmented neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Metamyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Monocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Erythroblast,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Metamyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Signed slides/Myelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Segmented neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Promyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_28/Signed slides/Myelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Basophil,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Promyelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Basophil,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Myelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Eosinophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Band neutrophils,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Erythroblast,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Monocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_69/10026924218/Signed slides/Basophil,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Myelocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_29/Signed slides/Monocyte,3
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_75/Signed slides/Basophil,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Promyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Plasma cells,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_12/Signed slides/Lymphocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Band neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_101/Signed slides/Promyelocyte,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Blast, no lineage spec",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Band neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Metamyelocyte,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Blast, no lineage spec",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_13/Signed slides/Plasma cells,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Basophil,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Monocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_1635/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Thrombocyte aggregation,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Monocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_103/Signed slides/Plasma cells,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Basophil,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_11/Signed slides/Segmented neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_64/Signed slides/Lymphocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Monocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Thrombocyte aggregation,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_35/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Basophil,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_42/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Promyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Eosinophils,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Band neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Monocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_00/Signed slides/Promyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Basophil,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_58/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Basophil,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Blast, no lineage spec",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_01/Signed slides/Monocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_47/Signed slides/Metamyelocyte,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Signed slides/Blast, no lineage spec",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_44/Signed slides/Segmented neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Plasma cells,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Segmented neutrophils,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_94/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_99/Signed slides/Promyelocyte,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_50/Signed slides/Band neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_37/Signed slides/Basophil,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_68/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_34/Signed slides/Segmented neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Plasma cells,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027006113/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Basophil,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_23/Signed slides/Monocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Smudge cells,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_79/10025562151/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_92/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Band neutrophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Erythroblast,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_26/Signed slides/Promyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_67/Signed slides/Monocyte,2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Lymphocyte, variant",2
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Lymphocyte, variant",2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Giant thrombocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_08/Signed slides/Myelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Eosinophils,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Metamyelocyte,2
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_02/Signed slides/Giant thrombocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_98/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_85/Signed slides/Giant thrombocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_12/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Band neutrophils,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_03/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Band neutrophils,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_09/Signed slides/Lymphocyte, variant",1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_93/Signed slides/Blast, no lineage spec",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_95/Signed slides/Segmented neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Leukemia_Dataset/ALL_IDB2/ALL_IDB2,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_88/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_06/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_05/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_07/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_104/Signed slides/Monocyte,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Blast, no lineage spec",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_97/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_96/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_04/Signed slides/Segmented neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_102/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_91/Signed slides/Giant thrombocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Band neutrophils,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_87/Signed slides/Lymphocyte, variant",1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_57/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_57/Signed slides/Segmented neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_57/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_39/10025983082/Signed slides/Giant thrombocyte,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Blast, no lineage spec",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_61/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_36/Signed slides/Plasma cells,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_72/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_34/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_34/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_66/Signed slides/Prolymphocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_43/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_71/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_33/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Promonocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_40/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_56/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_105/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_42/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Signed slides/Smudge cells,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Signed slides/Monocyte,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_49/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Myelocyte,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_60/2018-12-16_2346/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_53/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Giant thrombocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_48/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_59/10024110838_p/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_62/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_46/Signed slides/Erythroblast,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_51/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_63/Signed slides/Smudge cells,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_55/Signed slides/Myelocyte,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_41/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_54/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_25/Signed slides/Basophil,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_73/10027135108/Signed slides/Blast, no lineage spec",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_24/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_80/10026231691/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Erythroblast,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_76/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_16/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Plasma cells,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_84/2019-02-11_2108/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100/2019-04-30_1548/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_100,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Band neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_86/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_90/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Plasma cells,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_89/Signed slides/Giant thrombocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_11/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_14/Signed slides/Promonocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_78/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Giant thrombocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Metamyelocyte,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_31/Signed slides/Blast, no lineage spec",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_70/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_70/Signed slides/Segmented neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_27/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_81/10026273526/Signed slides/Myelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_30/Signed slides/Erythroblast,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_77/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Segmented neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Metamyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_18/Signed slides/Plasma cells,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_15/Signed slides/Basophil,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_52/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Eosinophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Monocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_20/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_83/Signed slides/Promyelocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Segmented neutrophils,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Erythroblast,1
+"/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_17/Signed slides/Lymphocyte, variant",1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_74/Signed slides/Promonocyte,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Peripheral_Blood_Smears_from_APL_vs_non_APL/All/Patient_19/Signed slides/Basophil,1
+/content/drive/My Drive/Kaggle/DataScientest_Blood_Cells_project/Kaggle_Leukemia_Dataset/ALL_IDB1/ALL_IDB1,1

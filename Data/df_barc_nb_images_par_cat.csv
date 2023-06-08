@@ -1,0 +1,57 @@
+image,code_g,cell_type,height,width,chemin,code_spe,im_moy_seuil,nb_px,ratio_px
+BA_552972.jpg,BA,basophil,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/basophil/,BA,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",130,0.22569444444444445
+EO_526624.jpg,EO,eosinophil,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/eosinophil/,EO,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",135,0.234375
+ERB_777158.jpg,ER,erythroblast,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/erythroblast/,ERB,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",58,0.10069444444444445
+MMY_685315.jpg,IG,ig,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/ig/,MMY,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",129,0.22395833333333334
+LY_168926.jpg,LYM,lymphocyte,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/lymphocyte/,LY,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",83,0.1440972222222222
+MO_6230.jpg,MON,monocyte,369,366,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/monocyte/,MO,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",143,0.2482638888888889
+SNE_215306.jpg,NEU,neutrophil,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/neutrophil/,SNE,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",92,0.1597222222222222
+PLATELET_764006.jpg,PLA,platelet,363,360,/content/drive/MyDrive/Kaggle/DataScientest_Blood_Cells_project/Mendeley_Data_Barcelona/platelet/,PLATELET,"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",19,0.03298611111111111

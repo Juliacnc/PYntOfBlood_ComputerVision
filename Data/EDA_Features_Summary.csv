@@ -1,0 +1,4 @@
+Information,features format initial,features format compress√,apr√®s 20 select percentil,PCA 90,PCA 80,PCA 70
+Nb pixels / features,392040,50176,10035,236,60,22
+% vs images initales,,12.80%,2.56%,0.06%,0.02%,0.01%
+dimension,360*363*3,224*224*1,,,,
