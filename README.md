@@ -1,5 +1,10 @@
 # PYnt of Blood
 
+## Contributeurs
+[Frédéric Navez](https://github.com/fnavez)
+[Jessica Planade](https://github.com/JessDSs)
+[Richard Bonfils](https://github.com/Rich-Data-F)
+
 ## Objectif
 
 Le diagnostic d’un cancer nécessite plusieurs examens dont l’un des plus importants est l’examen
@@ -23,4 +28,10 @@ La caractérisation d'une leucémie se fait en deux temps. Détecter la présenc
 Ainsi l’importance du modèle qui sera mis en place va résider dans sa capacité
 à différencier le type des cellules présentes dans le sang. A partir de cette base, il sera possible ensuite de mettre au point un modèle capable de détecter si un type de cellule est sain ou non.
 
-Dans ce repo se trouve le travail de data visualisation et de modélisation qui aura été mis en place durant les 6 semaines que comportait ce projet. S'y rattache également un rapport final ainsi qu'une présentation streamlite.
+Dans ce repository se trouve le travail de data visualisation et de modélisation qui auront été mis en place durant les 6 semaines que comportait ce projet. S'y rattache également un rapport final ainsi qu'une présentation streamlit.
+
+
+## Petit bonus
+
+Ce projet est le tout premier projet réalisé en computer vision à la suite de ma reconversion. Il a été réalisé entièrement à distance, en groupe. A la fin de ce dernier une soutenance a été effectué avec un support streamlit.
+Maintenant que ma formation est terminée, j'ai décidé de pouursuivre ce projet et de l'améliorer afin de me perfectionner !
