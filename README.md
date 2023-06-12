@@ -2,9 +2,9 @@
 ![Blood cells image](https://github.com/Juliacnc/PYntOfBlood_ComputerVision/blob/main/BloodCellImage.png)
 
 ## Contributeurs
-[Frédéric Navez](https://github.com/fnavez)
-[Jessica Planade](https://github.com/JessDSs)
-[Richard Bonfils](https://github.com/Rich-Data-F)
+[Frédéric Navez](https://github.com/fnavez),
+[Jessica Planade](https://github.com/JessDSs),
+[Richard Bonfils](https://github.com/Rich-Data-F).
 
 ## Objectif
 
@@ -35,4 +35,3 @@ Dans ce repository se trouve le travail de data visualisation et de modélisatio
 ## Petit bonus
 
 Ce projet est le tout premier projet réalisé en computer vision à la suite de ma reconversion. Il a été réalisé entièrement à distance, en groupe. A la fin de ce dernier une soutenance a été effectué avec un support streamlit.
-Maintenant que ma formation est terminée, j'ai décidé de pouursuivre ce projet et de l'améliorer afin de me perfectionner !
