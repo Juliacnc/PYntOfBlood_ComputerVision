@@ -1,5 +1,5 @@
 # PYnt of Blood
-(https://github.com/Juliacnc/PYntOfBlood_ComputerVision/blob/main/BloodCellImage.png)
+![Blood cells image](https://github.com/Juliacnc/PYntOfBlood_ComputerVision/blob/main/BloodCellImage.png)
 
 ## Contributeurs
 [Frédéric Navez](https://github.com/fnavez)
